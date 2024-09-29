@@ -1,1 +1,1 @@
-https://github.com/SunilKushwha/CV-
+https://roadmap.sh/projects/single-page-cv
